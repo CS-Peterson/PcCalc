@@ -1,0 +1,8 @@
+This is a very basic calculator that can be used for addition, subtraction, division and multiplication. 
+If you like it please follow me,
+check my previous project here:
+https://github.com/CS-Peterson/The-Saviour
+
+Hope you like it!
+Thanks and regards, 
+CS Peterson
